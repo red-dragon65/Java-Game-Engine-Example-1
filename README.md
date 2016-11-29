@@ -1,4 +1,4 @@
-# Java Game Engine Example 2
+# Java Game Engine Example 1
 
 --IDE--
 IntelliJ
